@@ -11,5 +11,6 @@ You may modify those things:
 You can use this script by 'sudo python ATC_pre.py'
 
 ### problem contact
+If you have problem, you can contact me through next email address.
 * Michael liu(Sina Weibo) michaelliu92@163.com
 
